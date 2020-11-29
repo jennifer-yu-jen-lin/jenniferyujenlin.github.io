@@ -1,10 +1,9 @@
 ---
-title: "Publications"
+title: "Publications and Presentations"
 permalink: /publications/
 author_profile: true
 ---
 
-# Publications and Presentations 
 (+First author)
 
 
