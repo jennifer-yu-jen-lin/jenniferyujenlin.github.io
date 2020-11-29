@@ -97,11 +97,11 @@ author:
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational Biologist"
   location         : "Taipei, Taiwan"
-  email            : "jenniferyujenlin@gmail.com"
+  email            : # "jenniferyujenlin@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:jenniferyujenlin@gmail.com"
+      url: "mailto:jenniferyujenlin@gmail.com"
     - label: "LinkedIn" #"Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/jennifer-yu-jen-lin/"
@@ -269,10 +269,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _about
+  # _posts
   - scope:
       path: ""
-      type: about
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -280,17 +280,11 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _research
+  # _pages
   - scope:
       path: ""
-      type: research
+      type: pages
     values:
       layout: single
       author_profile: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
+
