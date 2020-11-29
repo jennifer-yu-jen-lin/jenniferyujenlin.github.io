@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 About me
-======
 
 I'm Yu-Jen from Taiwan.
 
