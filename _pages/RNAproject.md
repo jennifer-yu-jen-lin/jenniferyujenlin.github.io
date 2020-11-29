@@ -1,5 +1,5 @@
 ---
-title: "RNA-seq - Gene-expression Analysis or Splicing Analysis?"
+title: "Gene-expression Analysis or Splicing Analysis?"
 permalink: /RNA-seq-Analysis/
 author_profile: true
 ---
