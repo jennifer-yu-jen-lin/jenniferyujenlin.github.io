@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "RNA project"
     url: /RNA-project/
   # - title: "Quick-Start Guide"
