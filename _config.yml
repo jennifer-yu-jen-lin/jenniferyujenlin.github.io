@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Yu-Jen (Jennifer) Lin"
-  avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational Biologist"
   location         : "Taipei, Taiwan"
   email            : "jenniferyujenlin@gmail.com"
