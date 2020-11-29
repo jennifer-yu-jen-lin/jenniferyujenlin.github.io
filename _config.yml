@@ -102,7 +102,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jenniferyujenlin@gmail.com"
-    - label: "Website"
+    - label: "LinkedIn" #"Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/jennifer-yu-jen-lin/"
     - label: "GitHub"
