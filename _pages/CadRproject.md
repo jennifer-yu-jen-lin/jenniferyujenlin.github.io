@@ -12,4 +12,3 @@ Lab: [Evolution & Synthetic Biology](https://choulab.wordpress.com/) at National
 
 Principal Investigator: [Dr. Hsin-Hung (David) Chou](https://choulab.wordpress.com/people/)
 
-[Publications](https://jenniferyujenlin.github.io/publications/)

@@ -4,10 +4,12 @@ main:
     url: /RNA-seq-Analysis/
   - title: "Cadmium Biosensors"
     url: /Cadmium-Biosensors/
-  - title: "Publications"
-    url: /Publications & Presentations/
+  - title: "Publications & Presentations"
+    url: /Publications-Presentations/
   - title: "Honors & Awards"
     url: /Honors-Awards/
+  - title: "Teaching"
+    url: /Teaching/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
