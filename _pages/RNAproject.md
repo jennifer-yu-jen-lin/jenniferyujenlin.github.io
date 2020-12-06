@@ -9,5 +9,5 @@ author_profile: true
 <img src="{{ site.url }}{{ site.baseurl }}/images/RNA-seq.png" alt="">
 
 Lab: [Computational Genomics Research Group](https://compbio.berkeley.edu/) at UC Berkeley
-Principal Investigator: Dr. Steven E. Brenner
-Supervisor: Dr. Zhiqiang Hu
+Principal Investigator: [Dr. Steven E. Brenner](https://compbio.berkeley.edu/people/brenner/)
+Supervisor: [Dr. Zhiqiang Hu](https://plantandmicrobiology.berkeley.edu/profile/dr-zhiqiang-hu-phd)
