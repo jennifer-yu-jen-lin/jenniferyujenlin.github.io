@@ -1,6 +1,6 @@
 ---
-title: "Publications and Presentations"
-permalink: /publications/
+title: "Publications & Presentations"
+permalink: /Publications/
 author_profile: true
 ---
 
